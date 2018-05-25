@@ -1,0 +1,90 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resources/skin/1.jpg</file>
+        <file>Resources/middlewidget/btn_music (3).png</file>
+        <file>Resources/middlewidget/btn_phone (3).png</file>
+        <file>Resources/mymusic/1.png</file>
+        <file>Resources/mymusic/2.png</file>
+        <file>Resources/mymusic/3.png</file>
+        <file>Resources/mymusic/4.png</file>
+        <file>Resources/mymusic/5.png</file>
+        <file>Resources/mymusic/6.png</file>
+        <file>Resources/mymusic/7.png</file>
+        <file>Resources/mymusic/8.png</file>
+        <file>Resources/mymusic/add.png</file>
+        <file>Resources/mymusic/add_2.png</file>
+        <file>Resources/mymusic/background_1.png</file>
+        <file>Resources/mymusic/background_2.png</file>
+        <file>Resources/mymusic/background_3.png</file>
+        <file>Resources/mymusic/background_4.png</file>
+        <file>Resources/mymusic/background_5.png</file>
+        <file>Resources/mymusic/background_6.png</file>
+        <file>Resources/mymusic/background_7.png</file>
+        <file>Resources/mymusic/background_8.png</file>
+        <file>Resources/mymusic/background_9.png</file>
+        <file>Resources/mymusic/background_10.png</file>
+        <file>Resources/mymusic/background_11.png</file>
+        <file>Resources/mymusic/beijing.png</file>
+        <file>Resources/mymusic/close.png</file>
+        <file>Resources/mymusic/delete.png</file>
+        <file>Resources/mymusic/delete_2.png</file>
+        <file>Resources/mymusic/denglu.png</file>
+        <file>Resources/mymusic/denglu_2.png</file>
+        <file>Resources/mymusic/document-open-recent.png</file>
+        <file>Resources/mymusic/head.png</file>
+        <file>Resources/mymusic/icon.png</file>
+        <file>Resources/mymusic/image.png</file>
+        <file>Resources/mymusic/list.png</file>
+        <file>Resources/mymusic/list_2.png</file>
+        <file>Resources/mymusic/lrc.png</file>
+        <file>Resources/mymusic/lrc_2.png</file>
+        <file>Resources/mymusic/min.png</file>
+        <file>Resources/mymusic/mini.png</file>
+        <file>Resources/mymusic/mute_1.png</file>
+        <file>Resources/mymusic/mute_2.png</file>
+        <file>Resources/mymusic/next_hover.png</file>
+        <file>Resources/mymusic/next_hover1.png</file>
+        <file>Resources/mymusic/open.png</file>
+        <file>Resources/mymusic/pause.png</file>
+        <file>Resources/mymusic/pause_hover.png</file>
+        <file>Resources/mymusic/pause_hover1.png</file>
+        <file>Resources/mymusic/pause_press.png</file>
+        <file>Resources/mymusic/play.png</file>
+        <file>Resources/mymusic/play_hover.png</file>
+        <file>Resources/mymusic/play_pres.png</file>
+        <file>Resources/mymusic/play_unhover.png</file>
+        <file>Resources/mymusic/player.png</file>
+        <file>Resources/mymusic/prev_hover.png</file>
+        <file>Resources/mymusic/prev_hover1.png</file>
+        <file>Resources/mymusic/progress_thumb_2.png</file>
+        <file>Resources/mymusic/quit.png</file>
+        <file>Resources/mymusic/shunxu.png</file>
+        <file>Resources/mymusic/skipBackward.png</file>
+        <file>Resources/mymusic/skipForward.png</file>
+        <file>Resources/mymusic/splash.png</file>
+        <file>Resources/mymusic/stop.png</file>
+        <file>Resources/mymusic/suiji.png</file>
+        <file>Resources/mymusic/Thumbs.db</file>
+        <file>Resources/mymusic/tuopan.png</file>
+        <file>Resources/mymusic/xunhuan.png</file>
+        <file>Resources/topwidget/btn_refresh(1).png</file>
+        <file>Resources/topwidget/btn_setting (2).png</file>
+        <file>Resources/topwidget/btn_skin (2).png</file>
+        <file>Resources/topwidget/btn_tool (2).png</file>
+        <file>Resources/topwidget/btn_close (2).png</file>
+        <file>Resources/topwidget/btn_game (2).png</file>
+        <file>Resources/topwidget/btn_message (2).png</file>
+        <file>Resources/topwidget/btn_mini (2).png</file>
+        <file>Resources/topwidget/btn_miniframe (2).png</file>
+        <file>Resources/middlewidget/btn_cloud (2).png</file>
+        <file>Resources/middlewidget/btn_cloud (3).png</file>
+        <file>Resources/middlewidget/btn_download (2).png</file>
+        <file>Resources/middlewidget/btn_download (3).png</file>
+        <file>Resources/middlewidget/btn_music (2).png</file>
+        <file>Resources/middlewidget/btn_phone (2).png</file>
+        <file>Resources/middlewidget/btn_radio (2).png</file>
+        <file>Resources/middlewidget/btn_radio (3).png</file>
+        <file>Resources/topwidget/btn_playcard (3).png</file>
+        <file>Resources/topwidget/btn_mobile (2).png</file>
+    </qresource>
+</RCC>

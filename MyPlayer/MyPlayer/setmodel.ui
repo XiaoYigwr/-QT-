@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SetModel</class>
+ <widget class="QWidget" name="SetModel">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="pushProcess">
+   <property name="geometry">
+    <rect>
+     <x>533</x>
+     <y>420</y>
+     <width>127</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>22</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton { background-color: rgb(150,160,168); border-radius: 3px; color: rgb(255, 255, 255); } QPushButton:hover { background-color: rgb(123,147,168); }
+QPushButton:focus { background-color: rgb(123,147,168); }
+</string>
+   </property>
+   <property name="text">
+    <string>治疗</string>
+   </property>
+   <property name="autoDefault">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushPrime">
+   <property name="geometry">
+    <rect>
+     <x>401</x>
+     <y>420</y>
+     <width>127</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>22</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton { background-color: rgb(150,160,168); border-radius: 3px; color: rgb(255, 255, 255); } QPushButton:hover { background-color: rgb(123,147,168); }
+QPushButton:focus { background-color: rgb(123,147,168); }</string>
+   </property>
+   <property name="text">
+    <string>预冲</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushCheck">
+   <property name="geometry">
+    <rect>
+     <x>137</x>
+     <y>420</y>
+     <width>127</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>22</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton { background-color: rgb(150,160,168); border-radius: 3px; color: rgb(255, 255, 255); } QPushButton:hover { background-color: rgb(123,147,168); }
+QPushButton:focus { background-color: rgb(123,147,168); }</string>
+   </property>
+   <property name="text">
+    <string>自检</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushParameter">
+   <property name="geometry">
+    <rect>
+     <x>665</x>
+     <y>420</y>
+     <width>127</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>22</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton { background-color: rgb(150,160,168); border-radius: 3px; color: rgb(255, 255, 255); } QPushButton:hover { background-color: rgb(123,147,168); }
+QPushButton:focus { background-color: rgb(123,147,168); }</string>
+   </property>
+   <property name="text">
+    <string>参数设置</string>
+   </property>
+   <property name="autoDefault">
+    <bool>false</bool>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>210</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Tlwg Typewriter</family>
+     <pointsize>20</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLabel { background-color: rgb(150,160,168); border-radius: 3px; color: rgb(255, 255, 255); }
+</string>
+   </property>
+   <property name="text">
+    <string>模式选择中...</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushClean">
+   <property name="geometry">
+    <rect>
+     <x>5</x>
+     <y>420</y>
+     <width>127</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>22</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton { background-color: rgb(150,160,168); border-radius: 3px; color: rgb(255, 255, 255); } QPushButton:hover { background-color: rgb(123,147,168); }
+QPushButton:focus { background-color: rgb(123,147,168); }</string>
+   </property>
+   <property name="text">
+    <string>消毒</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushSetmodel">
+   <property name="geometry">
+    <rect>
+     <x>269</x>
+     <y>420</y>
+     <width>127</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>22</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton { background-color: rgb(150,160,168); border-radius: 3px; color: rgb(255, 255, 255); } QPushButton:hover { background-color: rgb(123,147,168); }
+QPushButton:focus { background-color: rgb(123,147,168); }</string>
+   </property>
+   <property name="text">
+    <string>模式</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,81 @@
+﻿生成启动时间为 2018/5/25 21:45:37。
+     1>项目“C:\Users\Wenrui-GUO\Desktop\musicplay\MyPlayer\MyPlayer\MyPlayer.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing myplayer.h...
+         Uic'ing myplayer.ui...
+         Moc'ing mylrc.h...
+         Moc'ing widget.h...
+         Moc'ing white.h...
+         Moc'ing setparameter.h...
+         Moc'ing setmodel.h...
+         Moc'ing process.h...
+         Moc'ing my_thread.h...
+         Moc'ing clean.h...
+         Moc'ing check.h...
+         Rcc'ing myplayer.qrc...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_check.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_check.cpp, GeneratedFiles\Release\moc_check.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_clean.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_clean.cpp, GeneratedFiles\Release\moc_clean.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_mylrc.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_mylrc.cpp, GeneratedFiles\Release\moc_mylrc.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_myplayer.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_myplayer.cpp, GeneratedFiles\Release\moc_myplayer.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_my_thread.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_my_thread.cpp, GeneratedFiles\Release\moc_my_thread.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_process.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_process.cpp, GeneratedFiles\Release\moc_process.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_setmodel.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_setmodel.cpp, GeneratedFiles\Release\moc_setmodel.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_setparameter.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_setparameter.cpp, GeneratedFiles\Release\moc_setparameter.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_white.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_white.cpp, GeneratedFiles\Release\moc_white.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_widget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_widget.cpp, GeneratedFiles\Release\moc_widget.cpp.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Debug /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtGui /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtLocation /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtMultimedia /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtMultimediaWidgets /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtNetwork /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtQml /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtQuick /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtSql /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtTest /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\ActiveQt /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtBluetooth /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtConcurrent /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtHelp /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtNfc /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtOpenGL /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtPositioning /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtPrintSupport /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtQuickWidgets /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtScript /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtScriptTools /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtSensors /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtSerialPort /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtSvg /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtUiTools /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtWebChannel /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtWebSockets /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtWidgets /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtWinExtras /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtXml /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtXmlPatterns /I"C:\Visual Studio 2013 Library file\boost_1_65_1" /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_LOCATION_LIB /D QT_MULTIMEDIA_LIB /D QT_MULTIMEDIAWIDGETS_LIB /D QT_NETWORK_LIB /D QT_QML_LIB /D QT_QUICK_LIB /D QT_SQL_LIB /D QT_TESTLIB_LIB /D QT_BLUETOOTH_LIB /D QT_CONCURRENT_LIB /D QT_HELP_LIB /D QT_NFC_LIB /D QT_OPENGL_LIB /D QT_POSITIONING_LIB /D QT_PRINTSUPPORT_LIB /D QT_QUICKWIDGETS_LIB /D QT_SCRIPT_LIB /D QT_SCRIPTTOOLS_LIB /D QT_SENSORS_LIB /D QT_SERIALPORT_LIB /D QT_SVG_LIB /D QT_UITOOLS_LIB /D QT_WEBCHANNEL_LIB /D QT_WEBSOCKETS_LIB /D QT_WIDGETS_LIB /D QT_WINEXTRAS_LIB /D QT_XML_LIB /D QT_XMLPATTERNS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt check.cpp clean.cpp GeneratedFiles\Debug\moc_check.cpp GeneratedFiles\Debug\moc_clean.cpp GeneratedFiles\Debug\moc_mylrc.cpp GeneratedFiles\Debug\moc_myplayer.cpp GeneratedFiles\Debug\moc_my_thread.cpp GeneratedFiles\Debug\moc_process.cpp GeneratedFiles\Debug\moc_setmodel.cpp GeneratedFiles\Debug\moc_setparameter.cpp GeneratedFiles\Debug\moc_white.cpp GeneratedFiles\Debug\moc_widget.cpp main.cpp mylrc.cpp myplayer.cpp my_thread.cpp process.cpp setmodel.cpp setparameter.cpp widget.cpp
+         check.cpp
+         clean.cpp
+         moc_check.cpp
+         moc_clean.cpp
+         moc_mylrc.cpp
+         moc_myplayer.cpp
+         moc_my_thread.cpp
+         moc_process.cpp
+         moc_setmodel.cpp
+         moc_setparameter.cpp
+         moc_white.cpp
+         moc_widget.cpp
+         main.cpp
+         mylrc.cpp
+         myplayer.cpp
+         my_thread.cpp
+         process.cpp
+     1>process.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         setmodel.cpp
+         setparameter.cpp
+     1>setparameter.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         widget.cpp
+     1>widget.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Debug /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtGui /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtLocation /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtMultimedia /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtMultimediaWidgets /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtNetwork /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtQml /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtQuick /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtSql /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtTest /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\ActiveQt /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtBluetooth /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtConcurrent /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtHelp /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtNfc /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtOpenGL /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtPositioning /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtPrintSupport /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtQuickWidgets /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtScript /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtScriptTools /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtSensors /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtSerialPort /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtSvg /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtUiTools /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtWebChannel /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtWebSockets /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtWidgets /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtWinExtras /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtXml /IC:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\include\QtXmlPatterns /I"C:\Visual Studio 2013 Library file\boost_1_65_1" /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_LOCATION_LIB /D QT_MULTIMEDIA_LIB /D QT_MULTIMEDIAWIDGETS_LIB /D QT_NETWORK_LIB /D QT_QML_LIB /D QT_QUICK_LIB /D QT_SQL_LIB /D QT_TESTLIB_LIB /D QT_BLUETOOTH_LIB /D QT_CONCURRENT_LIB /D QT_HELP_LIB /D QT_NFC_LIB /D QT_OPENGL_LIB /D QT_POSITIONING_LIB /D QT_PRINTSUPPORT_LIB /D QT_QUICKWIDGETS_LIB /D QT_SCRIPT_LIB /D QT_SCRIPTTOOLS_LIB /D QT_SENSORS_LIB /D QT_SERIALPORT_LIB /D QT_SVG_LIB /D QT_UITOOLS_LIB /D QT_WEBCHANNEL_LIB /D QT_WEBSOCKETS_LIB /D QT_WIDGETS_LIB /D QT_WINEXTRAS_LIB /D QT_XML_LIB /D QT_XMLPATTERNS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_myplayer.cpp
+         qrc_myplayer.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Wenrui-GUO\Desktop\musicplay\MyPlayer\Win32\Debug\\MyPlayer.exe" /NOLOGO /LIBPATH:C:\VisualStudio2013LibraryNOBlankFile\Qt\Qt5.7.0\5.7\msvc2013\lib /LIBPATH:"C:\Visual Studio 2013 Library file\boost_1_65_1\stage\lib" qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Locationd.lib Qt5Multimediad.lib Qt5MultimediaWidgetsd.lib Qt5Networkd.lib Qt5Qmld.lib Qt5Quickd.lib Qt5Sqld.lib Qt5Testd.lib Qt5AxContainerd.lib Qt5AxBased.lib Qt5Bluetoothd.lib Qt5Concurrentd.lib Qt5Helpd.lib Qt5Nfcd.lib Qt5OpenGLd.lib opengl32.lib glu32.lib Qt5Positioningd.lib Qt5PrintSupportd.lib Qt5QuickWidgetsd.lib Qt5Scriptd.lib Qt5ScriptToolsd.lib Qt5Sensorsd.lib Qt5SerialPortd.lib Qt5Svgd.lib Qt5UiToolsd.lib Qt5WebChanneld.lib Qt5WebSocketsd.lib Qt5Widgetsd.lib Qt5WinExtrasd.lib Qt5Xmld.lib Qt5XmlPatternsd.lib opencv_ml249d.lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_objdetect249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_nonfree249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_videostab249d.lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Locationd.lib Qt5Multimediad.lib Qt5MultimediaWidgetsd.lib Qt5Networkd.lib Qt5Qmld.lib Qt5Quickd.lib Qt5Sqld.lib Qt5Testd.lib Qt5AxContainerd.lib Qt5AxBased.lib Qt5Bluetoothd.lib Qt5Concurrentd.lib Qt5Helpd.lib Qt5Nfcd.lib Qt5OpenGLd.lib opengl32.lib glu32.lib Qt5Positioningd.lib Qt5PrintSupportd.lib Qt5QuickWidgetsd.lib Qt5Scriptd.lib Qt5ScriptToolsd.lib Qt5Sensorsd.lib Qt5SerialPortd.lib Qt5Svgd.lib Qt5UiToolsd.lib Qt5WebChanneld.lib Qt5WebSocketsd.lib Qt5Widgetsd.lib Qt5WinExtrasd.lib Qt5Xmld.lib Qt5XmlPatternsd.lib Qt5Chartsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Wenrui-GUO\Desktop\musicplay\MyPlayer\Win32\Debug\MyPlayer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Wenrui-GUO\Desktop\musicplay\MyPlayer\Win32\Debug\MyPlayer.lib" /MACHINE:X86 /SAFESEH Debug\check.obj
+         Debug\clean.obj
+         Debug\moc_check.obj
+         Debug\moc_clean.obj
+         Debug\moc_mylrc.obj
+         Debug\moc_myplayer.obj
+         Debug\moc_my_thread.obj
+         Debug\moc_process.obj
+         Debug\moc_setmodel.obj
+         Debug\moc_setparameter.obj
+         Debug\moc_white.obj
+         Debug\moc_widget.obj
+         Debug\qrc_myplayer.obj
+         Debug\main.obj
+         Debug\mylrc.obj
+         Debug\myplayer.obj
+         Debug\my_thread.obj
+         Debug\process.obj
+         Debug\setmodel.obj
+         Debug\setparameter.obj
+         Debug\widget.obj
+         MyPlayer.vcxproj -> C:\Users\Wenrui-GUO\Desktop\musicplay\MyPlayer\Win32\Debug\MyPlayer.exe
+     1>已完成生成项目“C:\Users\Wenrui-GUO\Desktop\musicplay\MyPlayer\MyPlayer\MyPlayer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:43.39
